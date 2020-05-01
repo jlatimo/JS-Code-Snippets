@@ -1,0 +1,17 @@
+{
+    "name": "code-snippets",
+    "version": "1.0.0",
+    "description": "Snippets of useful JavaScript code.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "npm",
+        "node",
+        "masks",
+        "javascript"
+    ],
+    "author": "Justin Latimore",
+    "license": "ISC"
+}
